@@ -1,10 +1,9 @@
-# Assignment 4
-### Advanced Natural Language Processing | Monsoon 2024
-### Nanda Rajiv | 2021115002
+# Quantisation and Model Compresssion
+### Course Assignment in Advanced Natural Language Processing (CS7.501) | Monsoon 2024
 
 -----
 <br/>
-As mentioned in the assignment document, the following have been submitted:
+Find the following files:
 
 + Source
     - <b>from_scratch.py</b>: For training the language models from scratch.
@@ -14,5 +13,4 @@ As mentioned in the assignment document, the following have been submitted:
 + README.md: this file.
 
 --------
-[Here](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/nanda_rajiv_research_iiit_ac_in/EnTTE3JYBj9EiT85mMbqJ4oBSAwHgfuH5I8Xg_D7gGOJjg?e=OUAiTs) is the link to the drive folder containing the weights and perplexity files for the quantised models.
 
